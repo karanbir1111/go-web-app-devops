@@ -8,7 +8,7 @@ This repository contains a Go-based web application featuring a complete, automa
 
 The infrastructure is split into two distinct automation pipelines: Continuous Integration (CI) and Continuous Delivery (CD) utilizing GitOps.
 
-![CI/CD Pipeline Flow](images/CI-CD-flow.png)
+![CI/CD Pipeline Flow](CI-CD-flow.png)
 
 ---
 
